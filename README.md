@@ -1,7 +1,7 @@
 # Hibernate Open Tutorials
 ## Hibernate Open Tutorials 
 
-## junit을 사용하여 기본적인 CRUD를 구현.
+## junit 기본적인 CRUD를 구현.
 
 ### 1.maven으로 외부 라이브러리를 불러옴.
 ### 2.Setting Hibernate Configuration
